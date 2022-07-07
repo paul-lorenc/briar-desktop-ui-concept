@@ -1,4 +1,4 @@
-Contact Screen (cc: https://code.briarproject.org/briar/briar-desktop/-/issues/262)
+### Contact Screen (cc: https://code.briarproject.org/briar/briar-desktop/-/issues/262)
 
 ![Contact Screen UI Concept](pm.png)
 
