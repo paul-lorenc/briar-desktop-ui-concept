@@ -26,4 +26,4 @@ This is fairly restrictive, and mirrors how email works. This will likely create
 
 ### Feeds
 
-![Feeds Screen UI Concept](blogs.png)
+![Feeds Screen UI Concept](feeds.png)
