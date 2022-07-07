@@ -8,7 +8,7 @@ Contact Screen (cc: https://code.briarproject.org/briar/briar-desktop/-/issues/2
 
 When you left-click on a message, the UI selects that message, and focuses your cursor in the response input, for a quick reply.
 
-![Group Quick Reply UI Concept](quick-reply.png)
+![Group Quick Reply UI Concept](quick-reply-fixed.png)
 
 Right-clicking on a message selects that message, and expands the view to show the message in it's context within the "subject view" (à la zulip "topics")
 
